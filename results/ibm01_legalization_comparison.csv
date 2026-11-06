@@ -1,0 +1,4 @@
+path,hpwl_before,hpwl_after,hpwl_change,hpwl_change_pct,total_displacement,average_displacement,runtime_s,overlaps_after,violations_after
+ePlace,1695446,1712782,17336,1.02,14748,1.18,16.77,0,0
+mPL6,1616428,1879350,262922,16.27,277146,22.17,24.8-26.1,0,0
+Pseudo G100,1701939,1968678,266739,15.67,,,,,

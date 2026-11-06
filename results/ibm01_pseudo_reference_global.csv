@@ -1,0 +1,2 @@
+initial_hpwl,final_hpwl,improvement,improvement_pct,passes,swap_attempts,accepted_swaps,runtime_s,runtime_days,nominal_limit_s,nominal_limit_days,termination
+1733265,1701939,31326,1.81,1163,14544478,1953,414577.56,4.8,518400,6,no improvement

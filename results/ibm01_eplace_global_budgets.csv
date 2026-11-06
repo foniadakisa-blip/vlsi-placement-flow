@@ -1,0 +1,7 @@
+budget_pct,limit_s,runtime_s,passes,swaps_tried,accepted_swaps,final_hpwl,termination
+1,144,144.015,1,4796,0,1695446,time limit
+5,720,720.002,2,20967,0,1695446,time limit
+10,1440,1440.016,4,45975,0,1695446,time limit
+20,2880,1684.999,5,62530,0,1695446,no improvement
+50,7200,1621.702,5,62530,0,1695446,no improvement
+100,14400,1687.104,5,62530,0,1695446,no improvement

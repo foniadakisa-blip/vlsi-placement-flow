@@ -1,0 +1,4 @@
+path,initial_hpwl,final_hpwl,improvement,improvement_pct,passes,swaps_kept,runtime_s,termination,overlaps_after,violations_after
+ePlace,1712782,1703220,9562,0.56,4,1071,2.8-3.3,no improvement,0,0
+mPL6,1879350,1798148,81202,4.32,6,7302,4.7-5.4,no improvement,0,0
+Pseudo G100,1968678,1869598,99080,5.03,5,8185,4.576,no improvement,0,0
