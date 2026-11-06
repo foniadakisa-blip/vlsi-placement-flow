@@ -1,14 +1,10 @@
-<img width="2617" height="681" alt="placement_flow" src="https://github.com/user-attachments/assets/d3f883de-3364-4265-8315-031f367ae083" />
-<img width="2176" height="1250" alt="ibm01_results" src="https://github.com/user-attachments/assets/ad88b08f-75b2-4953-8428-9b5c03810969" />
 # VLSI Placement Flow with Time Constraints
 
 Experimental VLSI physical-design placement flow developed for an undergraduate thesis at the **University of Thessaly**.
 
 The repository studies how three different starting-placement paths behave when they are processed by the same custom flow under explicit runtime limits.
 
-<p align="center">
-  <img src="./figures/placement_flow.png" alt="VLSI placement flow" width="900">
-</p>
+<img width="2617" height="681" alt="placement_flow" src="https://github.com/user-attachments/assets/d3f883de-3364-4265-8315-031f367ae083" />
 
 ## Overview
 
@@ -198,9 +194,7 @@ The most complete verified comparison in the thesis is IBM01.
 | mPL6 | 1,616,428 | 1,879,350 | +16.27% | 1,798,148 | 4.32% |
 | Pseudo G100 | 1,701,939 | 1,968,678 | +15.67% | 1,869,598 | 5.03% |
 
-<p align="center">
-  <img src="./figures/ibm01_results.png" alt="IBM01 HPWL comparison" width="850">
-</p>
+<img width="2176" height="1250" alt="ibm01_results" src="https://github.com/user-attachments/assets/ad88b08f-75b2-4953-8428-9b5c03810969" />
 
 The result illustrates why the Global HPWL cannot be interpreted alone. The mPL6 input has the lowest Global HPWL, but it experiences a much larger legalization penalty than ePlace.
 
@@ -317,3 +311,7 @@ University of Thessaly
 ## License
 
 This project is released under the [`MIT License`](./LICENSE).
+
+
+
+
